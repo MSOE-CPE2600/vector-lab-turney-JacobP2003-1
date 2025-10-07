@@ -4,3 +4,5 @@
 *.o
 #executable file
 minimat
+#vscode files
+.vscode

@@ -12,6 +12,8 @@
 #ifndef VECTLIST_H
 #define VECTLIST_H
 
+#include "Vect.h"
+
 int isVectNull(Vect vect);
 
 Vect getNullVect();
